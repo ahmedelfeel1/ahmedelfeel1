@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedelfeel1
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ... +201093128830 (what's app)
 
 <!---
